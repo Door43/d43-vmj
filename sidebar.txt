@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[vmj:home|Door43 (vmj)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-vmj|d43-vmj repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-vmj/archive/master.zip|d43-vmj.zip]]
+
+**Recent Changes**
+{{changes>ns = vmj}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/vmj|Ethnologue data]]
+
